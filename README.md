@@ -1,4 +1,4 @@
-# alura-game2d
+# alura-flappybird
 Criando um jogo 2D
 Entenda a interface da Unity;
 Faça esse curso e:
